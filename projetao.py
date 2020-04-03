@@ -122,3 +122,7 @@ while Fichas>0:
             else:
                 print("Você perdeu!")
                 Fichas-=aposta
+
+
+if Fichas==0:
+    print('Acabaram suas fichas')
