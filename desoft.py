@@ -9,6 +9,7 @@ while Fichas>0:
     elif p1=='s':
         print("Você esta na fase 'Come out'")
         p2=input("Qual aposta você gostaria de fazer? (Você pode escolher quantas quiser, entre 'Pass Line Bet', 'Field', 'Any Craps', 'Twelve')")
+        
         if p2=="Pass Line Bet e Field":
             aposta=int(input("Quanto você quer apostar?"))
             dado1=random.randint(1,6)
