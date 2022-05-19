@@ -1,4 +1,4 @@
 # Projeto-1
 Exercicio programa - DeSoft
-- [ ] Testando Tasklist
-- []Está funcionando
+- [x] Testando Tasklist
+- [ ] Está funcionando
